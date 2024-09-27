@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: bool
         """
         pass
-    stack
+    stack=[];
+    
 
 
 
