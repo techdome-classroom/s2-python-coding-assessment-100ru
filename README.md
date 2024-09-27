@@ -4,7 +4,7 @@
 1. Clone the repository into your local system
 2. Download the extension "Run on Save" and enable it.
 3. Restart your VS Code.
-
+clear
 # Questions:
 
 1. program1.md -- 20 Marks
