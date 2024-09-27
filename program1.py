@@ -7,7 +7,7 @@ class Solution(object):
         pass
     stack=[];
     match_paren={')':'(', '}':'{',']':'['}
-    for char in range 
+    for char in s:
 
 
 
