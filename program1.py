@@ -4,11 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-    
-        """
-        :type s: str
-        :rtype: bool
-        """
         stack = []
         matching_parentheses = {')': '(', '}': '{', ']': '['}
         
