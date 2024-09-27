@@ -6,7 +6,7 @@ class Solution(object):
         """
         pass
     stack=[];
-    match_paren={}
+    match_paren={''}
 
 
 
