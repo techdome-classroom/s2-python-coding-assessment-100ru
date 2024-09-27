@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         pass
-    stac
+    stack
 
 
 
