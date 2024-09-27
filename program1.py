@@ -21,7 +21,7 @@ class Solution(object):
 sol = Solution()
 print(sol.isValid("()"))      # Output: True
 print(sol.isValid("()[]{}"))  # Output: True
-print(sol.isValid("(]"))      # Output: False
+print(sol.isValid("(]"))       # Output: False
 
 
 
