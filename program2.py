@@ -12,6 +12,8 @@ class Solution(object):
         for i in range(len(s)):
             if i > 0 and roman_values[s[i]] > roman_values[s[i - 1]]:
                 result += roman_values[s[i]] - 2 * roman_values[s[i - 1]]
+                
+            if()
             else:
                 result += roman_values[s[i]]
         
