@@ -22,6 +22,6 @@ solution = Solution()
 print(solution.romanToInt("III")) 
 print(solution.romanToInt("LVIII"))  
 print(solution.romanToInt("MCMXCIV"))
-print(solution)
+print(solution.romanToInt(""))
 
 
